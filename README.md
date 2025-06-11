@@ -13,6 +13,7 @@ I'm a Biomedical Engineer passionate about bridging the gap between engineering,
 
 - [lsmgridtrack](https://github.com/siboles/lsmgridtrack): A Python package for deformable image registration of 3-D laser scanned images and analysis in biomechanics.
 - [resonant_lsm](https://github.com/siboles/resonant_lsm): Segmentation and deformation analysis of microscopic images obtained with resonance laser scanning
+- [bioMultiScale](https://github.com/siboles/bioMultiScale): A Python package for automating multiscale (submodelling) finite element analysis in articular cartilage
 
 ## Coming Soon
 
