@@ -8,6 +8,7 @@ I'm a Biomedical Engineer passionate about bridging the gap between engineering,
 - 📐 Computational Geometry
 - 📚 Continuum Mechanics
 - 📊 Data Science & Visualization
+- 🖼️ Image Processing, Segmentation, and Registration
 
 ## 🚀 Featured Projects
 
