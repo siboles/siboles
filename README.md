@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Scott
 
-I'm a Biomedical Engineer passionate about bridging the gap between engineering, computation, and medicine. My expertise includes:
+I'm a Biomedical Engineer that researches orthopedic mechanics. I utilize computational modeling and simulation to explore these mechanics
+at the celluar, tissue, and joint (organ) scales. I have also developed tools to process, segment, and register 3-D images of articular
+cartilage obtained with laser scanning microscopy under varying mechanical conditions.
+
+My expertise includes:
 
 - 🧬 Biomedical Engineering
 - 🐍 Python programming
@@ -9,12 +13,13 @@ I'm a Biomedical Engineer passionate about bridging the gap between engineering,
 - 📚 Continuum Mechanics
 - 📊 Data Science & Visualization
 - 🖼️ Image Processing, Segmentation, and Registration
+- :dart: Numerical Optimization, Sensitivity Analysis, and Uncertainty Quantification
 
 ## 🚀 Featured Projects
 
 - [lsmgridtrack](https://github.com/siboles/lsmgridtrack): A Python package for deformable image registration of 3-D laser scanned images and analysis in biomechanics.
 - [resonant_lsm](https://github.com/siboles/resonant_lsm): Segmentation and deformation analysis of microscopic images obtained with resonance laser scanning
-- [bioMultiScale](https://github.com/siboles/bioMultiScale): A Python package for automating multiscale (submodelling) finite element analysis in articular cartilage
+- [bioMultiScale](https://github.com/siboles/bioMultiScale): A Python package for automating multiscale (submodeling) finite element analysis in articular cartilage
 - [pyfebio](https://github.com/CompOrthoBiomech/pyfebio): A Python API for the FEBio finite element solver
   
 ## Coming Soon
@@ -22,10 +27,6 @@ I'm a Biomedical Engineer passionate about bridging the gap between engineering,
 I have several internal projects that will be open-sourced shortly including:
 
 - A framework for automating FEA pipelines particularly for articular joint modelling and implant design
-
-## 📝 About Me
-
-I'm driven by curiosity and the challenge of translating complex physical phenomena into computational models and data-driven insights. My work aims to advance medical research and technology by leveraging robust engineering tools and open-source development.
 
 ---
 
