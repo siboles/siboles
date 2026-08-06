@@ -18,6 +18,7 @@ My expertise includes:
 ## 🚀 Featured Projects
 
 - [pyfebio](https://github.com/febiosoftware/pyfebio): A Python API for the FEBio finite element solver
+- [seg2mesh](https://github.com/CompOrthoBiomech/seg2mesh): A toolkit for processing of segmentation images, conversion to triangle meshes, and mesh processing.
 - [lsmgridtrack](https://github.com/siboles/lsmgridtrack): A Python package for deformable image registration of 3-D laser scanned images and analysis in biomechanics.
 - [resonant_lsm](https://github.com/siboles/resonant_lsm): Segmentation and deformation analysis of microscopic images obtained with resonance laser scanning
 - [bioMultiScale](https://github.com/siboles/bioMultiScale): A Python package for automating multiscale (submodeling) finite element analysis in articular cartilage
